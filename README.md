@@ -11,7 +11,6 @@
 - 🎓 Recently graduated with a **National Diploma in IT** (NQF Level 6) from CUT
 - 🚀 Built and deployed a **live production system** used daily by a real business
 - 💻 Passionate about **C#, .NET, and clean, maintainable code**
-- 📚 Currently building **ResearchDesk** – an academic management web app for a UNISA student
 - ☁️ Studying for **Microsoft Azure AZ-900** certification
 - 🏀 Basketball enthusiast who builds tech for the SA community
 
@@ -31,27 +30,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Tech Stack | Status |
-|---------|------------|--------|
-| **[John Audio Vision – Repair Shop System](https://github.com/Thato-Root82/john-audio-vision-repair-system)** | C#, .NET 9, WinForms, LINQ, System.Text.Json | ✅ Live in production |
-| **[ResearchDesk](https://github.com/Thato-Root82/ResearchDesk)** | C#, ASP.NET Core MVC, SQLite, EF Core, Bootstrap 5 | 🔄 ~95% complete |
-| **[The 82 Store](https://github.com/Thato-Root82/the-82-store)** | HTML5, CSS3, Flexbox, CSS Animations | ✅ Complete |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thato-Root82&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thato-Root82&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
