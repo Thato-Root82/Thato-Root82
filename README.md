@@ -1,22 +1,22 @@
-<h1 align="center">Hi there, I'm Thato Mofokeng 👋</h1>
+<h1 align="center">Hi there, I'm Thato Mofokeng </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=FA4B0A&center=true&vCenter=true&width=500&lines=IT+Graduate+%7C+.NET+Developer;Building+real-world+apps+that+solve+problems;Live+production+experience+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=FA4B0A&center=true&vCenter=true&width=500&lines=IT+Graduate+%7C+.NET+Developer;Live+production+experience+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 Recently graduated with a **National Diploma in IT** (NQF Level 6) from CUT
-- 🚀 Built and deployed a **live production system** used daily by a real business
-- 💻 Passionate about **C#, .NET, and clean, maintainable code**
-- ☁️ Studying for **Microsoft Azure AZ-900** certification
+-  Recently graduated with a **National Diploma in IT** (NQF Level 6) from CUT
+-  Built and deployed a **live production system** used daily by a real business
+-  Passionate about **C#, .NET, and clean, maintainable code**
+-  Studying for **Microsoft Azure AZ-900** certification
 - 🏀 Basketball enthusiast who builds tech for the SA community
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 📫 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/tk-mofokeng">
